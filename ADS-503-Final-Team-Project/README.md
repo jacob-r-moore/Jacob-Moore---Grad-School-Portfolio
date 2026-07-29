@@ -22,7 +22,7 @@ To use this project, first clone the repository on your device using the command
 
 ```bash
 git init
-git clone https://github.com/cameronmoran23/ADS503-Group3-FinalProject
+git clone https://github.com/jacob-r-moore/ADS503-Group3-FinalProject
 ```
 
 ## Project Objective/Goals:
